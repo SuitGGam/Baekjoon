@@ -3,7 +3,7 @@
  * https://www.acmicpc.net/problem/28420
  * 난이도 : 실버 1
  * 풀이 날짜 : 2025-06-04
- * 간단 설명 : 
+ * 간단 설명 : 차와 캠핑카에 배치에 따른 최소 흐림(누적 합)을 구하는 문제
  */
 
 import java.io.BufferedReader;
